@@ -1,3 +1,3 @@
-Diameter = float(2 * 2)
+diameter = float(2 * 2)
 
-print(Diameter)
+print(diameter)

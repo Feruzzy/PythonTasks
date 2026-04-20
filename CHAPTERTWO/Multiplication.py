@@ -1,3 +1,3 @@
-Multiplication = float(27.5 * 2)
+multiplication = float(27.5 * 2)
 
-print(Multiplication)
+print(multiplication)

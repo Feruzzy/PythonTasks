@@ -1,3 +1,3 @@
-Division = float(27.5 / 2)
+division = float(27.5 / 2)
 
-print(Division)
+print(division)

@@ -1,3 +1,3 @@
-Subtraction = float(27.5 - 2)
+subtraction = float(27.5 - 2)
 
-print(Subtraction)
+print(subtraction)
