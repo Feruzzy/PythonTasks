@@ -1,24 +1,24 @@
-num1 = float(input("Enter first number: ")
-num2 = float(input("Enter second number: ")
-num3 = float(input("Enter third number: ")
+first_number = float(input("Enter first number: ")
+second_number = float(input("Enter second number: ")
+third_number = float(input("Enter third number: ")
 
-if num1 <= num2 and num1 <= num3:
-    if num2 <= num3:
-        print(num1, num2, num3)
+if first_number <= second_number and first_number <= third_number:
+    if second_number <= third_number:
+        print(first_number, second_number, third_number)
     else:
-        print(num1, num3, num2)
+        print(first_number, third_number, second_number)
 
-elif num2 <= num1 and num2 <= num3:
-    if num1 <= num3:
-        print(num2, mum1, num3)
+elif second_number <= first_number and second_number <= third_number:
+    if first_number <= third_number:
+        print(second_number, first_number, third_number)
     else:
-        print(num2, num3, num1)
+        print(second_number, third_number, first_number)
 
 else:
-    if num1 <= num2:
-        print(num3, num1, num2)
+    if first_number <= second_number:
+        print(third_number, first_number, second_number)
     else:
-        print(num3, num2, num1)
+        print(third_number, second_number, first_number)
     
 
 
