@@ -1,3 +1,3 @@
-Arithmetic = float(27.5 // 2)
+arithmetic = float(27.5 // 2)
 
-print(Arithmetic)
+print(arithmetic)
