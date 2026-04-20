@@ -1,3 +1,3 @@
-Addition = float(27.5 + 2)
+addition = float(27.5 + 2)
 
-print(Addition)
+print(addition)
